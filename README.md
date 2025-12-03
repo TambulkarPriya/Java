@@ -32,9 +32,6 @@ Java is a powerful, object-oriented, and platform-independent programming langua
 
 🚀 High Performance — JIT compiler enhances execution speed.
 
-💡 Why I Am Learning Java
-
-Java is one of the most in-demand skills in backend development and enterprise applications. I'm learning Java to:
 
 ✔ Build strong backend knowledge
 ✔ Become job-ready as a Java Developer
@@ -70,7 +67,7 @@ Java is not just a skill — it’s the foundation for my tech career.
 * ⚛️ ReactJS (for full-stack projects)
 
 **Database** :
-* 🗃️ MySQL
+* 🗃️ Oracle
 
 * 📘 SQL (Queries + Joins + DB Design)
 
@@ -139,7 +136,7 @@ Java is not just a skill — it’s the foundation for my tech career.
 
 📌 **Phase 5: Database & SQL (Ongoing)**
 
-* MySQL basics
+* Oracle basics
 
 * Joins
 
