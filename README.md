@@ -157,6 +157,7 @@ Java is not just a skill — it’s the foundation for my tech career.
 * Deployments
 
 📁 **Recommended Folder Structure**
+
 Java_Journey/
 │
 ├── 01-Core-Java/
